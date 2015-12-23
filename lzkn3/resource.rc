@@ -2,8 +2,8 @@
 
 // DLL version information.
 VS_VERSION_INFO    VERSIONINFO
-FILEVERSION        1,2,0,0
-PRODUCTVERSION     1,2,0,0
+FILEVERSION        1,0,0,0
+PRODUCTVERSION     1,0,0,0
 FILEFLAGSMASK      VS_FFI_FILEFLAGSMASK
 #ifdef _DEBUG
   FILEFLAGS        VS_FF_DEBUG | VS_FF_PRERELEASE
@@ -19,13 +19,13 @@ BEGIN
     BLOCK "080904b0"
     BEGIN
       VALUE "CompanyName", "Lab 313"
-      VALUE "FileDescription", "Konami LZ77 Compressor 2"
-      VALUE "FileVersion", "1.2.0.0"
-      VALUE "InternalName", "LZKN2"
+      VALUE "FileDescription", "Konami LZ77 Compressor 3"
+      VALUE "FileVersion", "1.0.0.0"
+      VALUE "InternalName", "LZKN3"
       VALUE "LegalCopyright", "©2015 Lab 313"
-      VALUE "OriginalFilename", "LZKN2.dll"
-      VALUE "ProductName", "Konami LZ77 Compressor 2"
-      VALUE "ProductVersion", "1.2.0.0"
+      VALUE "OriginalFilename", "LZKN3.dll"
+      VALUE "ProductName", "Konami LZ77 Compressor 3"
+      VALUE "ProductVersion", "1.0.0.0"
     END
   END
   BLOCK "VarFileInfo"

@@ -1,7 +1,9 @@
-#include "stdio.h"
+#define ADD_EXPORTS
+
+#include "main.h"
+//#include "stdio.h"
 #include "stdlib.h"
 #include "string.h"
-#include "main.h"
 
 #define WNDSIZE 0x3FF
 
